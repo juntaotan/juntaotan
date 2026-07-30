@@ -1,9 +1,62 @@
-# Hi 👋, I'm Juntao Tan
+<h1 align="center">Hi, I'm Juntao Tan</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Tan Juntao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tan Juntao" height="30" width="40" /></a>
+<p align="center">
+  Building backend and data systems for finance.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a></p>
+<p align="center">
+  MInfoTech · Java · Spring Boot · PostgreSQL · React
+</p>
+
+---
+
+## About Me
+
+- Building financial analytics and business data systems
+- Working primarily with Java, Spring Boot and PostgreSQL
+- Exploring data engineering, DevOps and open-source development
+
+## Featured Projects
+
+### Margin Attribution Analyser
+
+A financial analysis system for explaining changes in revenue, cost,
+volume, price and profit margin.
+
+### Financial Data Import Platform
+
+A Spring Boot application that detects spreadsheet structures,
+infers column types and imports financial data into PostgreSQL.
+
+## Development Activity
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=juntaotan&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub statistics"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juntaotan&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    alt="Most used languages"
+  />
+</p>
+
+## Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake.svg"
+  />
+</picture>
