@@ -20,9 +20,25 @@
 <p><img src="./assets/keyboard.svg" width="18" height="18" alt="img"> Master of Information Technology | Bachelor of Economy </p>
 
 ---
+<h3 align="center">Development Activity</h3>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=juntaotan&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=juntaotan&amp;theme=github-dark-blue&amp;hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 <h3 align="center">Contact Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/你的LinkedIn用户名/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/juntao-tan-b15a95425"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/juntaotan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="mailto:juntao.tan.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
