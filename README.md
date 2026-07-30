@@ -25,11 +25,13 @@
 <p align="center">
   <img
     height="180"
+    width="48%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=juntaotan&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true"
     alt="GitHub Statistics"
   />
   <img
     height="180"
+    width="48%"
     src="https://streak-stats.demolab.com?user=juntaotan&amp;theme=github-dark-blue&amp;hide_border=true"
     alt="GitHub Streak"
   />
