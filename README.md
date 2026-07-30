@@ -1,4 +1,8 @@
-<h1 align="center">Hello! I'm Juntao Tan 👋</h1>
+<h1 align="center">
+  Hello! I'm Juntao Tan
+  <img src="./assets/wave.gif" width="36" height="36" alt="Waving hand">
+</h1>
+
 
 <p align="center">
   Building full stack systems for finance and data.
@@ -10,10 +14,10 @@
 
 <h3 align="center">About Me</h3>
 
-* Building financial analytics and business data systems
-* Working primarily with Java, Spring Boot, and PostgreSQL
-* Exploring data engineering, DevOps, and open-source development
-* Master of Information Technology | Bachelor of Economy
+<p><img src="./assets/keyboard.svg" width="18" height="18" alt="img">Building financial analytics and business data systems</p>
+<p><img src="./assets/keyboard.svg" width="18" height="18" alt="img"> Working primarily with Java, Spring Boot, and PostgreSQL</p>
+<p><img src="./assets/keyboard.svg" width="18" height="18" alt="img"> Exploring data engineering, DevOps, and open-source development </p>
+<p><img src="./assets/keyboard.svg" width="18" height="18" alt="img"> Master of Information Technology | Bachelor of Economy </p>
 
 ---
 <h3 align="center">Contact Me</h3>
