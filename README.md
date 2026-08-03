@@ -15,7 +15,7 @@
 <h3 align="center">About Me</h3>
 
 - 💡 Interested in data processing, performance optimisation, and parallel computing.
-- 🛠️ Focus on bilding financial analytics and business data systems.
+- 🛠️ Focus on building financial analytics and business data systems.
 - ☕ Working primarily with Java, Spring Boot, PostgreSQL and React.
 - ☀️Exploring data engineering, DevOps, and open-source development.
 - 🎓 Master of Information Technology | Bachelor of Economy.
