@@ -18,7 +18,7 @@
 - 🛠️ Focus on building financial analytics and business data systems.
 - ☕ Working primarily with Java, Spring Boot, PostgreSQL and React.
 - ☀️Exploring data engineering, DevOps, and open-source development.
-- 🎓 Master of Information Technology | Bachelor of Economy.
+- 🎓 Master of Information Technology | Bachelor of Economics.
 
 ---
 <h3 align="center">Development Activity</h3>
