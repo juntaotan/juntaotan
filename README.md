@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake.svg?raw=true">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake.svg?raw=true" height="120">
+  </picture>
+</p>
+
 <h1 align="center">
   Hello! I'm Juntao Tan
   <img src="./assets/wave.gif" width="36" height="36" alt="Waving hand">
@@ -76,15 +84,6 @@
   />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/juntaotan/juntaotan/output/github-snake.svg">
-  </picture>
-</p>
-
-
 <!-- 
 ---
 
@@ -99,4 +98,3 @@
 | 🚀 **[Project Name 1](https://github.com/juntaotan)** | Financial data analytics system for automated risk calculations and reporting. | `Java` `Spring Boot` `PostgreSQL` |
 | ⚡ **[Project Name 2](https://github.com/juntaotan)** | High-throughput data processing pipeline leveraging parallel computing. | `CUDA` `Python` `C++` |
 -->
-
