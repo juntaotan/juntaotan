@@ -85,6 +85,7 @@
 </p>
 
 
+<!-- 
 ---
 
 <h3 align="center">Featured Projects</h3>
@@ -97,3 +98,5 @@
 | :--- | :--- | :--- |
 | 🚀 **[Project Name 1](https://github.com/juntaotan)** | Financial data analytics system for automated risk calculations and reporting. | `Java` `Spring Boot` `PostgreSQL` |
 | ⚡ **[Project Name 2](https://github.com/juntaotan)** | High-throughput data processing pipeline leveraging parallel computing. | `CUDA` `Python` `C++` |
+-->
+
