@@ -41,31 +41,37 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center">
-  <b>Languages & Acceleration</b><br>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&amp;logo=nvidia&amp;logoColor=76B900" alt="CUDA">
-</p>
-
-<p align="center">
-  <b>Frameworks & Web</b><br>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-</p>
-
-<p align="center">
-  <b>Databases, Cloud & Tools</b><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <b>Languages &amp; Acceleration</b>
+      <p>
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
+        <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&amp;logo=nvidia&amp;logoColor=76B900" alt="CUDA">
+      </p>
+      <b>Frameworks &amp; Web</b>
+      <p>
+        <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring">
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <b>Databases, Cloud &amp; Tools</b>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
+        <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="ChatGPT">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
